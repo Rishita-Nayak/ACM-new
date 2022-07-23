@@ -1,3 +1,4 @@
+
 <br />![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86939391/180610616-066b0b65-c07f-4575-b781-453481e0e0a5.gif)
 <h1 align="center"> GGSIP University USS ACM Student Chapter </h1>
 <h4 align="center">GGSIP University USS ACM Student Chapter is an official student body incepted in 2019 under the University School USICT, GGSIPU. The chapter will conduct events including programming contests, talks by renowned speakers, workshops etc.which give the students an exposure to the competitive computing world as well as allow them to understand the advancements going on in the computing sphere worldwide. </h4>
